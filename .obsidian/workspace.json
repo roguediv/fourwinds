@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "3674521ca3375492",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bd5ee2a5434ac02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21c8a6dcefcd2c6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Makeready/1802/makeready audit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "af195ba64f8b32f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8b65d1a27ccdba8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bd32ecaa4d3d774",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0a08310d662bfe7f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cd49d9d8a20fb638",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "119575d973620edc",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e9dc1aa26bf3c58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f60648661b9df49",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Makeready/1802/makeready audit.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0d3765ab9d291b22",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Makeready/1802/makeready audit.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f89a10f57cee438e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "18e79bd67b2d27b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Makeready/1802/makeready audit.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "21c8a6dcefcd2c6e",
+  "lastOpenFiles": [
+    "Makeready/1802/bed 2.md",
+    "Makeready/1802/makeready audit.md",
+    "Makeready/Makereadies.md",
+    "$templates/makereadyTpl/tplMakereadyAudit.md",
+    "Makeready/1727/1727.md",
+    "Makeready/1727/kitchen.md",
+    "Makeready/1727/bed 1.md",
+    "Makeready/1727/bath 2.md",
+    "Makeready/1633/makeready audit.md",
+    "Makeready/1633/bed 1.md",
+    "Makeready/1633/bath 2.md",
+    "Makeready/1633/bath 1.md",
+    "Makeready/1633/1633.md",
+    "$templates/makereadyTpl/tplMakeready.md",
+    "$templates/makereadyTpl/tplMakereadyBath.md",
+    "$templates/makereadyTpl/tplMakereadyBed.md",
+    "$templates/makereadyTpl/tplMakeReadyKitchen.md",
+    "$templates/makereadyTpl/tplMakereadyLiving.md",
+    "$templates/makereadyTpl/tplMakereadyTasks.md",
+    "$templates/makereadyTpl",
+    "Welcome.md",
+    "Makeready/1727/bath 1.md",
+    "Makeready/1727/makeready audit.md",
+    "Makeready/1633/bed 3.md",
+    "Makeready/1633/bed 2.md",
+    "Makeready/1633/living.md",
+    "Makeready/1633/kitchen.md",
+    "Makeready/1633",
+    "Makeready/1727",
+    "Makeready/1802",
+    "Makeready/1801",
+    "Makeready/GenerateMakeready.py",
+    "Makeready/New Text Document.txt",
+    "$templates",
+    "Makeready"
+  ]
+}
